@@ -3,14 +3,7 @@
       display: none;
     }
 
-    .Rightbar {
-        display: flex;
-        flex-direction: column;
-        
-       
-        
-        
-    }
+  
     .firstinput{
         display: flex;
         flex-direction: column;
@@ -77,7 +70,12 @@
     .Main h1{
         font-size: 200px;
     }
-    
+    .Rightbar{
+        margin-top: 1200px;
+        width: 100%;
+    }
+    .Rightbar 
+
 
   }
   

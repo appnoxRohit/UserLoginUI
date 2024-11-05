@@ -77,7 +77,7 @@ const LoginPage = () => {
 {/* RIGHTSIDE */}
         <div className='Rightbar  w-[348px] h-full'>
                 
-                <div className='w-[348px] h-[500px] border-2 border-grey  flex flex-col  items-center justify-center'>
+                <div className='rightbar1 w-[348px] h-[500px] border-2 border-grey  flex flex-col  items-center justify-center'>
                     <img src={whatsapp} alt="" /><br/>
                     <p className='text-[16px]'>Preferisci usare whatsapp</p>
                     
@@ -86,7 +86,7 @@ const LoginPage = () => {
 
                     </div>
 
-                    <div className='w-[348px] h-[498px] border-2 border-grey border-t-0  border-b-0 flex flex-col  items-center justify-center'>
+                    <div className='rightbar2 w-[348px] h-[498px] border-2 border-grey border-t-0  border-b-0 flex flex-col  items-center justify-center'>
                         <img className='' src={attherate} alt="" />
                         <br />
                         <p>Preferisci inviarci una Email</p>

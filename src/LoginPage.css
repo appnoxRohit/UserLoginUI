@@ -1,0 +1,96 @@
+@media (max-width: 1023px) {
+    .sidebar-hidden {
+      display: none;
+    }
+
+    .Rightbar {
+        display: flex;
+        flex-direction: column;
+        
+       
+        
+        
+    }
+    .firstinput{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        
+    }
+    .firstinput input{
+        font-size: 50px;
+        width: 100%;
+        height: 150px;
+        padding-left: 20px;
+        
+
+
+    }
+    .secondinput{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: -15px;
+        gap: 30px;
+
+    }
+    .secondinput input{
+        font-size: 50px; 
+        padding-left: 20px;
+        width: 100%;
+        height: 150px;
+
+
+    }
+    .select{
+        font-size: 30px;
+        width: 100%;
+        height: 150px;
+    }
+    
+     
+    .main-div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .textarea{
+        font-size: 30px;
+        width: 100%;
+        height: 350px;
+
+    }
+    .imgarea{
+        font-size: 30px;
+        width: 100%;
+        height: 200px;
+    }
+    .btn{
+        font-size: 30px;
+        width: 100%;
+        height: 150px;
+    }
+    .Main h1{
+        font-size: 200px;
+    }
+    
+
+  }
+  
+  @media (min-width: 1024px) {
+    .sidebar-hidden {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  @media (max-width: 1023px) {
+    
+      
+    
+    
+  }
+  
